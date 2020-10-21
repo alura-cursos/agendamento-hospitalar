@@ -1,0 +1,20 @@
+ Mortalidade - Maranhão
+Óbitos p/Residênc por Causa - CID-BR-10
+Causa - CID-BR-10: . 055 Diabetes mellitus, ... 068.1 Infarto agudo do miocárdio
+Período:2018
+"Causa - CID-BR-10";"Óbitos_p/Residênc"
+"055-057 D ENDÓCRINAS, NUTRICIONAIS E METABÓLICAS";2558
+". 055 Diabetes mellitus";2558
+"066-072 DOENÇAS DO APARELHO CIRCULATÓRIO";3085
+". 068 Doenças isquêmicas do coração";3085
+"... 068.1 Infarto agudo do miocárdio";3085
+"Total";5643
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ 
